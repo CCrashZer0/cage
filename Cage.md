@@ -10,7 +10,7 @@ Room Description
 ## Recon
 Let's ping our maching and confirm that it is up and running.  
 Once you see a ping responces then take the IP address and plug it into your browser to see if their is a Ib service running.  
-![IbService](images/IbService.png "IbService")  
+![webService](images/webService.png "webService")  
 <br>
 It seem like I do have a Ib page comming up.  
 After clicking around it seems like none of the buttons actually work. So let's check out the source code of this page then.
