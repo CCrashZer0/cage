@@ -1,5 +1,6 @@
 # Try Hack Me - 
-Room Description
+Help Cage bring back his acting career and investigate the nefarious goings on of his agent!
+
 
 ---
 ## Objectives  
