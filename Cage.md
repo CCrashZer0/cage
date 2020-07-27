@@ -3,7 +3,7 @@ Room Description
 
 ---
 ## Objectives  
-1. What is Iston's password?
+1. What is Weston's password?
 2. What's the user flag?
 3. What's the root flag?
 ---
